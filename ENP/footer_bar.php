@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<div align="center" id="footer">
+<div align="center" id="footer" style="height:15%;">
 		<div id="footer_menu">		
 			<ul>
 				<li><a href="contact.us.php">Contact Us</a></li>

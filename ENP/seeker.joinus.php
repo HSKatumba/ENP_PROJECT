@@ -490,7 +490,7 @@
 				<div id="hsc">
 					<div id="left_part">
 						<div align="right" class="div_left">
-							HSC Board
+							UCE
 						</div>
 						<div align="center" class="div_center"><b>:</b></div>
 						<div align="left" class="div_right">
@@ -565,7 +565,7 @@
 					<!-- Start of SSC Div -->
 					<div id="left_part">
 						<div align="right" class="div_left">
-							SSC Board
+							UACE
 						</div>
 						<div align="center" class="div_center"><b>:</b></div>
 						<div align="left" class="div_right">

@@ -13,7 +13,7 @@
 
 <body link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
 	<!-- Start of Title Bar -->
-	<div id="title_bar">
+	<div id="title_bar" style="height:5%;">
 
 		<!-- Start of Quick Search Div in Title Bar -->
 		<div id="title_quick_search">
