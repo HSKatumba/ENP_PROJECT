@@ -126,7 +126,7 @@
 				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 				<div class="heading">
-					<div style="float: left; width: 96%">Customer Care Number (Toll-Free): 1800-958-2424-404</div>
+					<div style="float: left; width: 96%">Customer Care Number (Toll-Free): (+256) 705488117</div>
 				</div clas="heading">
 				</center>
 				<!-- End of Body Heading Div -->
