@@ -26,7 +26,7 @@
 	<div id="body_struct">
 	
 		<!-- Start of Contact Us Div -->
-		<div id="contactus">	
+		<div id="contactus" style="background-image:url('images/contactus1.jpg');">	
 		
 				<!-- Start of Body Heading Div -->
 				<div class="heading">
@@ -44,7 +44,7 @@
 					
 						<!-- Start of Name Div -->
 						<div>
-							<div align="right" class="div_left">
+							<div align="right" class="div_left" style="color: red;">
 								Name<font color="#FF0000">&nbsp;*</font>
 							</div>
 							<div align="center" class="div_center"><b>:</b></div>
@@ -56,7 +56,7 @@
 						
 						<!-- Start of Email Div -->
 						<div>
-							<div align="right" class="div_left">
+							<div align="right" class="div_left" style="color: red;">
 								Email-Id<font color="#FF0000">&nbsp;*</font>
 							</div>
 							<div align="center" class="div_center"><b>:</b></div>
@@ -68,7 +68,7 @@
 						
 						<!-- Start of Subject Div -->
 						<div>
-							<div align="right" class="div_left">
+							<div align="right" class="div_left" style="color: red;">
 								Subject<font color="#FF0000">&nbsp;*</font>
 							</div>
 							<div align="center" class="div_center"><b>:</b></div>
@@ -80,7 +80,7 @@
 						
 						<!-- Start of Query Div -->
 						<div>
-							<div align="right" class="div_left">
+							<div align="right" class="div_left" style="color: red;">
 								Query<font color="#FF0000">&nbsp;*</font>
 							</div>
 							<div align="center" class="div_center"><b>:</b></div>
@@ -93,7 +93,7 @@
 						
 						<!-- Start of Contact Number Div -->
 						<div>
-							<div align="right" class="div_left">
+							<div align="right" class="div_left" style="color: red;">
 								Mobile<font color="#FF0000">&nbsp;*</font>
 							</div>
 							<div align="center" class="div_center"><b>:</b></div>
@@ -126,7 +126,7 @@
 				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 				<div class="heading">
-					<div style="float: left; width: 96%">Customer Care Number (Toll-Free): (+256) 705488117</div>
+					<div style="float: left; width: 96%"><b>Customer Care Number (Toll-Free): (+256) 705488117</b></div>
 				</div clas="heading">
 				</center>
 				<!-- End of Body Heading Div -->

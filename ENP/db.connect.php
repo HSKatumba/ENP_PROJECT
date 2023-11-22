@@ -9,6 +9,6 @@ $db = "jobsportal";
 $conn = mysqli_connect($server, $username, $password, $db);
 
 if (!$conn) {
-    # code...
+    
     die("connection frailed" . mysqli_connect_errno($conn));
 }
