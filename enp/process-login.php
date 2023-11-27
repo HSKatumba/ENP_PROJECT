@@ -15,7 +15,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST"){
 
     if( password_verify($_POST["password"], $user["password_hash"])){
 
-        die("Login Successful");
+        header("Location: user.php");
     }
 
 
