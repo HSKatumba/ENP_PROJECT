@@ -2,8 +2,13 @@
 include("includes/header.php");
 
 ?>
-<h1>User Profile will <br>
-Appear here</h2>
+
+<div class="container pt-5 pb-5">
+    <div class="main-body">
+      <h1>Profile of user</h1>  
+
+    </div>
+</div>
 
 
 <?php
